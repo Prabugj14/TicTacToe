@@ -25,4 +25,8 @@ A classic Tic-Tac-Toe game built with Python using the `tkinter` library for the
    git clone https://github.com/Prabugj14/TicTacToe.git
    cd TicTacToe
 
+<<<<<<< Updated upstream
    
+=======
+   
+>>>>>>> Stashed changes
